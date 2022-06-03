@@ -1,4 +1,4 @@
-# My SQL 
+# My SQL, Postgre SQL.
 
 Цикл задач для курса `"  МГПУ, МГТУ.  DATABASE, SQL"`
 

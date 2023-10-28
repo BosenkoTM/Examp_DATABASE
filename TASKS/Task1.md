@@ -1,4 +1,4 @@
-Задания выполняются на платформе [SQL Fiddle](http://www.sqlfiddle.com/) 
+Задания выполняются на платформе [SQL Fiddle](http://www.sqlfiddle.com/) или другом онлайн редакторе SQL
 
 1. [Пример работы на платформе](http://www.sqlfiddle.com/#!9/a6c585/1)
 2. [SQL Style Guide](https://www.sqlstyle.guide/)

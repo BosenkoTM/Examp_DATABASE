@@ -4,7 +4,7 @@
 ## Этапы решения заданий
 ### 1. Спроектировать инфологическую модель базы данных(нотация [IDEF1X](https://infostart.ru/pm/1430187/)). 
 Редактор для инфологических эскизов или аналог:
-SQL Developer Data Modeler 24.3+ [скачать офсайт](https://www.oracle.com/database/sqldeveloper/technologies/sql-data-modeler/download/), [скачать яндекс-диск](https://disk.yandex.ru/d/olZNCfEzYL4BxA).
+SQL Developer Data Modeler 24.3+ [скачать офсайт](https://www.oracle.com/database/sqldeveloper/technologies/sql-data-modeler/download/), [скачать яндекс-диск](https://disk.yandex.ru/d/1IbKy9AYDTmVwQ).
 ### 2. Разработать даталогическую(реляционную) модель базы данных.  
 Cоздать ER-диаграмму. Редакторы для создания ER-диаграмм:
 - [MySQL Workbench](https://www.mysql.com/products/workbench/).

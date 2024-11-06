@@ -1,14 +1,13 @@
 # My SQL, Postgre SQL.
 
 Цикл задач для курса `"  МГПУ, МГТУ.  DATABASE, SQL"`
-
-Для всех заданий требуется предварительно создать ER-диаграмму. Используйте графические редакторы для создания ER-диаграмм, такие как:
-- MySQL Workbench.
-- Lucidchart.
-- Draw.io.
-- Microsoft Visio.
-- DBDesigner.
-- PhpMyAdmin.
+## Построить инфологическую, даталогическую и физическую модели базы данных
+Требуется предварительно создать ER-диаграмму. Используйте графические редакторы для создания ER-диаграмм, такие как:
+- [MySQL Workbench](https://www.mysql.com/products/workbench/).
+- [Lucidchart](https://www.lucidchart.com/pages/?).
+- [Draw.io](https://www.drawio.com/).
+- [PhpMyAdmin](http://95.131.149.21:8080/phpmyadmin/).
+- [Database diagram](https://databasediagram.com/app).
 
 Для каждой из таблиц создайте диаграмму, которая включает в себя:
 - Имя таблицы.

@@ -8,10 +8,7 @@ SQL Developer Data Modeler 24.3+ [скачать офсайт](https://www.oracl
 ### 2. Разработать даталогическую(реляционную) модель базы данных.  
 Cоздать ER-диаграмму. Редакторы для создания ER-диаграмм:
 - [MySQL Workbench](https://www.mysql.com/products/workbench/).
-- [Lucidchart](https://www.lucidchart.com/pages/?).
-- [Draw.io](https://www.drawio.com/).
 - [PhpMyAdmin](http://95.131.149.21:8080/phpmyadmin/).
-- [Database diagram](https://databasediagram.com/app).
 Для каждой из таблиц создайте диаграмму, которая включает в себя:
 - Имя таблицы.
 - Поля и их типы данных.
